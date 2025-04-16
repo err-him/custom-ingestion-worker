@@ -137,3 +137,7 @@ go test ./...
 ```
 
 ---
+# 🧪 Sample MongoDB data 
+#<img width="827" alt="Screenshot 2025-04-16 at 9 51 38 PM" src="https://github.com/user-attachments/assets/05dd4317-dfda-4667-8f9b-22cc37c59f80" />
+
+<img width="707" alt="Screenshot 2025-04-16 at 9 51 27 PM" src="https://github.com/user-attachments/assets/865f4496-0677-41a8-a238-60dfc5155a01" />
