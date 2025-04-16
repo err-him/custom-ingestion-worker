@@ -38,7 +38,7 @@ func (m *MongoDatabase) Init() error {
 		return err
 	}
 
-	m.collection = m.client.Database("samples_db").Collection("samples")
+	m.collection = m.client.Database("gohighlevel").Collection("samples")
 	log.Println("Connected to MongoDB!")
 	return nil
 }
