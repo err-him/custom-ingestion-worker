@@ -1,0 +1,90 @@
+{
+	"status": "error",
+	"customerId": "1",
+	"reason": "rate limit exceeded",
+	"createdAt": "2025-04-16T20:12:22+05:30"
+}
+{
+	"status": "error",
+	"customerId": "1",
+	"reason": "rate limit exceeded",
+	"createdAt": "2025-04-16T20:12:22+05:30"
+}
+{
+	"status": "error",
+	"customerId": "1",
+	"reason": "rate limit exceeded",
+	"createdAt": "2025-04-16T20:12:22+05:30"
+}
+{
+	"status": "error",
+	"customerId": "2",
+	"reason": "invalid email format",
+	"createdAt": "2025-04-16T20:12:22+05:30"
+}
+{
+	"status": "error",
+	"customerId": "",
+	"reason": "customer_id is required",
+	"createdAt": "2025-04-16T20:12:22+05:30"
+}
+{
+	"status": "error",
+	"customerId": "4",
+	"reason": "rate limit exceeded",
+	"createdAt": "2025-04-16T20:12:22+05:30"
+}
+{
+	"status": "error",
+	"customerId": "4",
+	"reason": "rate limit exceeded",
+	"createdAt": "2025-04-16T20:12:22+05:30"
+}
+{
+	"status": "error",
+	"customerId": "5",
+	"reason": "invalid email format",
+	"createdAt": "2025-04-16T20:12:22+05:30"
+}
+{
+	"status": "error",
+	"customerId": "11",
+	"reason": "invalid email format",
+	"createdAt": "2025-04-16T20:12:22+05:30"
+}
+{
+	"status": "error",
+	"customerId": "12",
+	"reason": "invalid email format",
+	"createdAt": "2025-04-16T20:12:22+05:30"
+}
+{
+	"status": "error",
+	"customerId": "15",
+	"reason": "invalid date format: 2024-03-26",
+	"createdAt": "2025-04-16T20:12:22+05:30"
+}
+{
+	"status": "error",
+	"customerId": "16",
+	"reason": "invalid date format: 2024-13-45T12:00:00Z",
+	"createdAt": "2025-04-16T20:12:22+05:30"
+}
+{
+	"status": "error",
+	"customerId": "21",
+	"reason": "invalid email format",
+	"createdAt": "2025-04-16T20:12:22+05:30"
+}
+{
+	"status": "error",
+	"customerId": "22",
+	"reason": "invalid email format",
+	"createdAt": "2025-04-16T20:12:22+05:30"
+}
+{
+	"status": "error",
+	"customerId": "25",
+	"reason": "invalid email format",
+	"createdAt": "2025-04-16T20:12:22+05:30"
+}

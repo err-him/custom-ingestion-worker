@@ -1,0 +1,162 @@
+{
+	"status": "error",
+	"customerId": "",
+	"reason": "customer_id is required",
+	"createdAt": "2025-04-16T19:56:05+05:30"
+}
+{
+	"status": "error",
+	"customerId": "cust123",
+	"reason": "invalid email format",
+	"createdAt": "2025-04-16T19:56:05+05:30"
+}
+{
+	"status": "error",
+	"customerId": "cust123",
+	"reason": "name is required",
+	"createdAt": "2025-04-16T19:56:05+05:30"
+}
+{
+	"status": "error",
+	"customerId": "",
+	"reason": "customer_id is required",
+	"createdAt": "2025-04-16T19:57:32+05:30"
+}
+{
+	"status": "error",
+	"customerId": "cust123",
+	"reason": "invalid email format",
+	"createdAt": "2025-04-16T19:57:32+05:30"
+}
+{
+	"status": "error",
+	"customerId": "cust123",
+	"reason": "name is required",
+	"createdAt": "2025-04-16T19:57:32+05:30"
+}
+{
+	"status": "error",
+	"customerId": "",
+	"reason": "customer_id is required",
+	"createdAt": "2025-04-16T19:58:49+05:30"
+}
+{
+	"status": "error",
+	"customerId": "cust123",
+	"reason": "invalid email format",
+	"createdAt": "2025-04-16T19:58:49+05:30"
+}
+{
+	"status": "error",
+	"customerId": "cust123",
+	"reason": "name is required",
+	"createdAt": "2025-04-16T19:58:49+05:30"
+}
+{
+	"status": "error",
+	"customerId": "",
+	"reason": "customer_id is required",
+	"createdAt": "2025-04-16T19:59:32+05:30"
+}
+{
+	"status": "error",
+	"customerId": "cust123",
+	"reason": "invalid email format",
+	"createdAt": "2025-04-16T19:59:32+05:30"
+}
+{
+	"status": "error",
+	"customerId": "cust123",
+	"reason": "name is required",
+	"createdAt": "2025-04-16T19:59:32+05:30"
+}
+{
+	"status": "error",
+	"customerId": "",
+	"reason": "customer_id is required",
+	"createdAt": "2025-04-16T20:02:42+05:30"
+}
+{
+	"status": "error",
+	"customerId": "cust123",
+	"reason": "invalid email format",
+	"createdAt": "2025-04-16T20:02:42+05:30"
+}
+{
+	"status": "error",
+	"customerId": "cust123",
+	"reason": "name is required",
+	"createdAt": "2025-04-16T20:02:42+05:30"
+}
+{
+	"status": "error",
+	"customerId": "",
+	"reason": "customer_id is required",
+	"createdAt": "2025-04-16T20:03:37+05:30"
+}
+{
+	"status": "error",
+	"customerId": "cust123",
+	"reason": "invalid email format",
+	"createdAt": "2025-04-16T20:03:37+05:30"
+}
+{
+	"status": "error",
+	"customerId": "cust123",
+	"reason": "name is required",
+	"createdAt": "2025-04-16T20:03:37+05:30"
+}
+{
+	"status": "error",
+	"customerId": "",
+	"reason": "customer_id is required",
+	"createdAt": "2025-04-16T20:04:02+05:30"
+}
+{
+	"status": "error",
+	"customerId": "cust123",
+	"reason": "invalid email format",
+	"createdAt": "2025-04-16T20:04:02+05:30"
+}
+{
+	"status": "error",
+	"customerId": "cust123",
+	"reason": "name is required",
+	"createdAt": "2025-04-16T20:04:02+05:30"
+}
+{
+	"status": "error",
+	"customerId": "",
+	"reason": "customer_id is required",
+	"createdAt": "2025-04-16T20:05:10+05:30"
+}
+{
+	"status": "error",
+	"customerId": "cust123",
+	"reason": "invalid email format",
+	"createdAt": "2025-04-16T20:05:10+05:30"
+}
+{
+	"status": "error",
+	"customerId": "cust123",
+	"reason": "name is required",
+	"createdAt": "2025-04-16T20:05:10+05:30"
+}
+{
+	"status": "error",
+	"customerId": "",
+	"reason": "customer_id is required",
+	"createdAt": "2025-04-16T20:12:21+05:30"
+}
+{
+	"status": "error",
+	"customerId": "cust123",
+	"reason": "invalid email format",
+	"createdAt": "2025-04-16T20:12:21+05:30"
+}
+{
+	"status": "error",
+	"customerId": "cust123",
+	"reason": "name is required",
+	"createdAt": "2025-04-16T20:12:21+05:30"
+}
